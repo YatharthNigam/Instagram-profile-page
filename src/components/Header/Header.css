@@ -1,5 +1,8 @@
-.header {
-  color: rgb(0, 175, 245);
+.flex-container {
+  display: flex;
   flex-direction: row;
+  padding-top: 16px;
+  padding-left: 19px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid lightgrey;
 }
-
