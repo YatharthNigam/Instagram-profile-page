@@ -1,0 +1,8 @@
+.hero {
+  background-color: lightgrey;
+  display: flex;
+  flex-direction: row;
+  flex-flow: row wrap;
+  justify-content: center;
+  padding-top: 10px;
+}
